@@ -4,3 +4,4 @@
 // no fast-forward
 // squash merge
 // Don't commit
+// Don't commit - no message
