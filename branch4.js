@@ -3,3 +3,4 @@
 // fast-forward if possible
 // no fast-forward
 // squash merge
+// Don't commit
